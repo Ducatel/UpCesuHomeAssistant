@@ -1,0 +1,13 @@
+{
+  "domain": "up_cesu",
+  "name": "Up CESU",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/Ducatel/UpCesuHomeAssistant",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/Ducatel/UpCesuHomeAssistant/issues",
+  "version": "0.1.0",
+  "dependencies": ["playwright"],
+  "requirements": ["playwright>=1.40.0"]
+}

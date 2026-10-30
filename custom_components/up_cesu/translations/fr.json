@@ -1,0 +1,21 @@
+{
+  "title": "Up CESU",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connexion à Up CESU",
+        "data": {
+          "code_cesu": "Code CESU",
+          "password": "Mot de passe"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Impossible de se connecter à Up CESU",
+      "invalid_auth": "Code CESU ou mot de passe invalide"
+    },
+    "abort": {
+      "already_configured": "Ce code CESU est déjà configuré"
+    }
+  }
+}
